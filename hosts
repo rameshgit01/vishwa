@@ -1,0 +1,9 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.56.100    learning.puppetlabs.vm puppetmaster
+192.168.56.101    cendev
+192.168.56.102    cenprod
+192.168.56.103    fedprod
+192.168.56.104    feddev
+192.168.0.32      ubudev
+192.168.0.38      ubuprod
